@@ -1,0 +1,114 @@
+{
+  "template": "app",
+  "imports": {
+    "Volo.Abp.LeptonXLiteTheme": {
+      "version": "5.6.1",
+      "isInstalled": true,
+      "creationTime": "11/20/2026 01:36:26 +00:00"
+    },
+    "Volo.Abp.Account": {
+      "version": "10.6.1",
+      "isInstalled": true,
+      "creationTime": "11/20/2026 01:36:26 +00:00"
+    },
+    "Volo.Abp.OpenIddict": {
+      "version": "10.6.1",
+      "isInstalled": true,
+      "creationTime": "11/20/2026 01:36:26 +00:00"
+    },
+    "Volo.Abp.Identity": {
+      "version": "10.6.1",
+      "isInstalled": true,
+      "creationTime": "11/20/2026 01:36:26 +00:00"
+    },
+    "Volo.Abp.TenantManagement": {
+      "version": "10.6.1",
+      "isInstalled": true,
+      "creationTime": "11/20/2026 01:36:26 +00:00"
+    },
+    "Volo.Abp.SettingManagement": {
+      "version": "10.6.1",
+      "isInstalled": true,
+      "creationTime": "11/20/2026 01:36:26 +00:00"
+    },
+    "Volo.Abp.PermissionManagement": {
+      "version": "10.6.1",
+      "isInstalled": true,
+      "creationTime": "11/20/2026 01:36:26 +00:00"
+    },
+    "Volo.Abp.FeatureManagement": {
+      "version": "10.6.1",
+      "isInstalled": true,
+      "creationTime": "11/20/2026 01:36:26 +00:00"
+    },
+    "Volo.Abp.BlobStoring.Database": {
+      "version": "10.6.1",
+      "isInstalled": true,
+      "creationTime": "11/20/2026 01:36:26 +00:00"
+    }
+  },
+  "folders": {
+    "items": {
+      "src": {},
+      "test": {}
+    }
+  },
+  "packages": {
+    "Nkust.InspectPlan.Application": {
+      "path": "src/Nkust.InspectPlan.Application/Nkust.InspectPlan.Application.abppkg",
+      "folder": "src"
+    },
+    "Nkust.InspectPlan.Application.Tests": {
+      "path": "test/Nkust.InspectPlan.Application.Tests/Nkust.InspectPlan.Application.Tests.abppkg",
+      "folder": "test"
+    },
+    "Nkust.InspectPlan.Domain.Shared": {
+      "path": "src/Nkust.InspectPlan.Domain.Shared/Nkust.InspectPlan.Domain.Shared.abppkg",
+      "folder": "src"
+    },
+    "Nkust.InspectPlan.Application.Contracts": {
+      "path": "src/Nkust.InspectPlan.Application.Contracts/Nkust.InspectPlan.Application.Contracts.abppkg",
+      "folder": "src"
+    },
+    "Nkust.InspectPlan.HttpApi": {
+      "path": "src/Nkust.InspectPlan.HttpApi/Nkust.InspectPlan.HttpApi.abppkg",
+      "folder": "src"
+    },
+    "Nkust.InspectPlan.HttpApi.Client": {
+      "path": "src/Nkust.InspectPlan.HttpApi.Client/Nkust.InspectPlan.HttpApi.Client.abppkg",
+      "folder": "src"
+    },
+    "Nkust.InspectPlan.EntityFrameworkCore.Tests": {
+      "path": "test/Nkust.InspectPlan.EntityFrameworkCore.Tests/Nkust.InspectPlan.EntityFrameworkCore.Tests.abppkg",
+      "folder": "test"
+    },
+    "Nkust.InspectPlan.EntityFrameworkCore": {
+      "path": "src/Nkust.InspectPlan.EntityFrameworkCore/Nkust.InspectPlan.EntityFrameworkCore.abppkg",
+      "folder": "src"
+    },
+    "Nkust.InspectPlan.TestBase": {
+      "path": "test/Nkust.InspectPlan.TestBase/Nkust.InspectPlan.TestBase.abppkg",
+      "folder": "test"
+    },
+    "Nkust.InspectPlan.Domain.Tests": {
+      "path": "test/Nkust.InspectPlan.Domain.Tests/Nkust.InspectPlan.Domain.Tests.abppkg",
+      "folder": "test"
+    },
+    "Nkust.InspectPlan.HttpApi.Client.ConsoleTestApp": {
+      "path": "test/Nkust.InspectPlan.HttpApi.Client.ConsoleTestApp/Nkust.InspectPlan.HttpApi.Client.ConsoleTestApp.abppkg",
+      "folder": "test"
+    },
+    "Nkust.InspectPlan.DbMigrator": {
+      "path": "src/Nkust.InspectPlan.DbMigrator/Nkust.InspectPlan.DbMigrator.abppkg",
+      "folder": "src"
+    },
+    "Nkust.InspectPlan.HttpApi.Host": {
+      "path": "src/Nkust.InspectPlan.HttpApi.Host/Nkust.InspectPlan.HttpApi.Host.abppkg",
+      "folder": "src"
+    },
+    "Nkust.InspectPlan.Domain": {
+      "path": "src/Nkust.InspectPlan.Domain/Nkust.InspectPlan.Domain.abppkg",
+      "folder": "src"
+    }
+  }
+}

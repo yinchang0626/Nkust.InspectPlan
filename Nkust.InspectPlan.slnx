@@ -1,0 +1,23 @@
+<Solution>
+    <Configurations>
+        <Platform Name="Any CPU" />
+    </Configurations>
+    <Folder Name="/src/">
+        <Project Path="src/Nkust.InspectPlan.Domain/Nkust.InspectPlan.Domain.csproj" />
+        <Project Path="src/Nkust.InspectPlan.Application/Nkust.InspectPlan.Application.csproj" />
+        <Project Path="src/Nkust.InspectPlan.EntityFrameworkCore/Nkust.InspectPlan.EntityFrameworkCore.csproj" />
+        <Project Path="src/Nkust.InspectPlan.Domain.Shared/Nkust.InspectPlan.Domain.Shared.csproj" />
+        <Project Path="src/Nkust.InspectPlan.Application.Contracts/Nkust.InspectPlan.Application.Contracts.csproj" />
+        <Project Path="src/Nkust.InspectPlan.HttpApi/Nkust.InspectPlan.HttpApi.csproj" />
+        <Project Path="src/Nkust.InspectPlan.HttpApi.Client/Nkust.InspectPlan.HttpApi.Client.csproj" />
+        <Project Path="src/Nkust.InspectPlan.HttpApi.Host/Nkust.InspectPlan.HttpApi.Host.csproj" />
+        <Project Path="src/Nkust.InspectPlan.DbMigrator/Nkust.InspectPlan.DbMigrator.csproj" />
+    </Folder>
+    <Folder Name="/test/">
+        <Project Path="test/Nkust.InspectPlan.Application.Tests/Nkust.InspectPlan.Application.Tests.csproj" />
+        <Project Path="test/Nkust.InspectPlan.EntityFrameworkCore.Tests/Nkust.InspectPlan.EntityFrameworkCore.Tests.csproj" />
+        <Project Path="test/Nkust.InspectPlan.TestBase/Nkust.InspectPlan.TestBase.csproj" />
+        <Project Path="test/Nkust.InspectPlan.Domain.Tests/Nkust.InspectPlan.Domain.Tests.csproj" />
+        <Project Path="test/Nkust.InspectPlan.HttpApi.Client.ConsoleTestApp/Nkust.InspectPlan.HttpApi.Client.ConsoleTestApp.csproj" />
+    </Folder>
+</Solution>
